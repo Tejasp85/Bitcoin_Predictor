@@ -1,2 +1,2 @@
-# final-project-bitcoin
-Final Project Project Bitcoin
+# final-project
+Final Project Bitcoin Predictor
