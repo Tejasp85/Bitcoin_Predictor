@@ -1,4 +1,4 @@
-# final-project
+# Bitcoin Prediction
 Final Project Bitcoin Predictor
 
 # Bitcoin Analysis:
